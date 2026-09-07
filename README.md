@@ -38,8 +38,7 @@ The project uses the Electric Vehicle Population dataset.
 * Interactive filters and visualizations
 
 ## Dashboard Preview
-
-Dashboard screenshots can be added here.
+<img width="1421" height="842" alt="Screenshot 2026-09-07 101546" src="https://github.com/user-attachments/assets/666da61b-0771-4222-a302-2f5b68578415" />
 
 ## Author
 
